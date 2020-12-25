@@ -6,7 +6,7 @@ Avinash Shanker(1001668570)
 Environment:
 1. The project is written in python3
 2. The project has been developed and tested to work on Google Colab as this is highly GPU extensive task.
-Link: https://colab.research.google.com/
+Link: https://colab.research.google.com/ link removed recently!!
 -----------------------------------------------------------------------
 How to run the code:
 
